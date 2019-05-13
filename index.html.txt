@@ -4,19 +4,19 @@
 
 <title> My site </title>
 
-	</head>
+</head>
 
-
-	<body>
+<body>
 
 <h1> Header ONE </h1>
 <p>
 Lorem Ipsum
+123
 </p>
 <hr>
 <p> 
 Lorem Ipsum again
 </p>
 
-	</body>
+</body>
 </html>
