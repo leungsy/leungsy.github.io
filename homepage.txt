@@ -1,4 +1,5 @@
 <html>
+<title> My site </title>
 <body>
 
 </body>
