@@ -1,6 +1,23 @@
+<!Doctype html>
 <html>
+	<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title> My site </title>
-<body>
 
-</body>
+	</head>
+
+
+	<body>
+
+<h1> Header ONE </h1>
+<p>
+Lorem Ipsum
+</p>
+<hr>
+<p> 
+Lorem Ipsum again
+</p>
+
+	</body>
 </html>
